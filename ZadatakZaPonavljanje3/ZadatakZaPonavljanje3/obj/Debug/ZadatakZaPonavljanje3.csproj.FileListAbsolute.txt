@@ -1,0 +1,6 @@
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\bin\Debug\ZadatakZaPonavljanje3.exe.config
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\bin\Debug\ZadatakZaPonavljanje3.exe
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\bin\Debug\ZadatakZaPonavljanje3.pdb
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\obj\Debug\ZadatakZaPonavljanje3.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\obj\Debug\ZadatakZaPonavljanje3.exe
+C:\Users\ivanm\source\repos\ZadatakZaPonavljanje3\ZadatakZaPonavljanje3\obj\Debug\ZadatakZaPonavljanje3.pdb
